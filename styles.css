@@ -22,3 +22,15 @@ animation-iteration-count: infinite;
 background-color:blue;
   }
 }
+
+@keyframes round
+{
+  from 
+  {
+    background-radius:0px;
+  }
+  to
+  {
+background-color:50%;
+  }
+}
